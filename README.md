@@ -1,6 +1,6 @@
 # 100hires-project
 
-# 🛠️ Dev Environment Setup — Project Log
+# Junior Growth Specialist Environment Setup — Project Log
  
 > **Repository:** [ikarasus/100hires-project](https://github.com/ikarasus/100hires-project)
  
