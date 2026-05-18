@@ -2,7 +2,6 @@
 
 # 🛠️ Dev Environment Setup — Project Log
  
-> **Role Applied For:** Developer Position
 > **Repository:** [ikarasus/100hires-project](https://github.com/ikarasus/100hires-project)
  
 ---
@@ -28,7 +27,7 @@ Codex Extension Installed
       ↓
 GitHub Connected (Repository: ikarasus/100hires-project)
       ↓
-Changes Pushed via git push
+Changes Pushed via git commit & push
       ↓
 ✅ Done!
 ```
